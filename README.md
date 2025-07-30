@@ -6,15 +6,6 @@ This project demonstrates the evolution of Java from Java 8 to Java 21+, with ha
 
 ## 📚 Java Version-wise Highlights
 
-### 🧠 Java 8 (2014)
-- Lambda Expressions
-- Stream API
-- Functional Interfaces
-- Default & Static Methods in Interfaces
-- Optional
-- Method References
-- Date and Time API (`java.time`)
-
 ### 💡 Java 9
 - Modules (`module-info.java`)
 - JShell (REPL)
@@ -70,14 +61,6 @@ This project demonstrates the evolution of Java from Java 8 to Java 21+, with ha
 - Virtual Threads (Preview)
 - Structured Concurrency (Preview)
 - Pattern Matching for `switch` (2nd Preview)
-
-### 🧪 Java 20–21
-- Virtual Threads (Standard in Java 21)
-- Record Patterns (Preview)
-- Unnamed Patterns and Variables
-- Sequenced Collections
-- Pattern Matching for `switch` (3rd Preview)
-- `StringTemplate` (Preview in Java 21+)
 
 ---
 
