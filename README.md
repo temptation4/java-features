@@ -1,4 +1,4 @@
-# ☕ Java Features (Java 8 to 21+)
+# ☕ Java Features (Java 9 to 19+)
 
 This project demonstrates the evolution of Java from Java 8 to Java 21+, with hands-on examples for each major feature. It's designed to help developers quickly understand, test, and apply modern Java features in real-world applications.
 
