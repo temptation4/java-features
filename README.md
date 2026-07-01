@@ -79,17 +79,15 @@ java-features/
 
 
 ---
+## 💬 Join the Discussion
 
-## 🔧 How to Run
+Have questions, suggestions, or want to discuss Java features?
 
-```bash
-# Compile the project
-mvn clean install
+Whether it's about **Java 8**, **Virtual Threads**, **Records**, **Pattern Matching**, or any other Java feature, feel free to join the discussion.
 
-# Run a specific feature class
-java -cp target/classes java17.sealed.SealedClassExample
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+👉 **[💬 Join the Java Community Discussion](https://github.com/temptation4/java-features/discussions/1)**
+
+Let's learn and grow together! ☕🚀
 
 🧠 Author
 Neelu Sahai
